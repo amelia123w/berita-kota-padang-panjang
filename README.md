@@ -1,6 +1,6 @@
 # Sistem Informasi Berita Kota Padang Panjang
 
-Proyek ini dikembangkan sebagai bagian dari kegiatan Praktik Kerja Lapangan (PKL) di Dinas Komunikasi dan Informatika Kota Padang Panjang. Aplikasi ini bertujuan untuk mempermudah proses manajemen dan publikasi berita oleh admin melalui sistem berbasis web.
+Proyek ini dikembangkan sebagai bagian dari Tugas Akhir Mahasiswa Politeknik Negeri Padang. Jurusan Teknologi Informasi dengan Program Studi D3 Sistem Informasi PSDKU Tanah Datar. Aplikasi ini bertujuan untuk mempermudah proses manajemen dan publikasi berita oleh admin melalui sistem berbasis web.
 
 ## Tujuan Proyek
 Menyediakan platform fungsional untuk:
@@ -15,6 +15,4 @@ Menyediakan platform fungsional untuk:
 
 ## Pengembang
 Amelia Kartika  
-Mahasiswa Sistem Informasi – Politeknik Negeri Padang  
-PKL di Dinas Komunikasi dan Informatika Kota Padang Panjang  
-Periode: 10 Februari - 30 Mei 2025
+Mahasiswa D3 Sistem Informasi – Politeknik Negeri Padang  
